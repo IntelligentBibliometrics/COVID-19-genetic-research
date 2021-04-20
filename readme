@@ -1,2 +1,9 @@
-
-Create network -> Pajek -> select the input file -> confirm
+Install VOSViewer
+|
+Create button on the left panel
+|
+Create a map based on network data -> next
+|
+Pajek -> select file and pajek network file (.net) - next
+|
+click "next" until finish.
